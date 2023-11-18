@@ -1,0 +1,8 @@
+
+ssh_host: '0.0.0.0'
+ssh_user: 'user1'       
+ssh_password: 'pass1'
+folder_in: '/home/user/in'
+folder_out: '/home/user/out'
+folder_ext1: '/home/user/folder1'
+folder_ext2: '/home/user/folder2'
